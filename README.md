@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ch.Krishna
+- 👋 Hi, I’m Ch.Krishna
   
 - 👀 I’m interested in ...
 - Data science
