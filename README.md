@@ -9,6 +9,7 @@
 - Machine learning
 - DeepLearning
 - SQL
+- AI
   
 - 💞️ I’m looking to collaborate on ...
 - Open-source projects
